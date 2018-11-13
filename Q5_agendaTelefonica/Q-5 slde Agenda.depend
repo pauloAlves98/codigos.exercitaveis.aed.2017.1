@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1504542808 source:c:\users\p\documents\2ºperiodo bsi\algoritimos e estruturas de dados-aed\exercicios aed\q-5 slde agenda\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
